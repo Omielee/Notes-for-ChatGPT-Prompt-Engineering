@@ -8,3 +8,12 @@
 
 ---
 # Lesson 2 - Guidelines for Prompting
+## Two principles of prompting
+- Write clear and specific instructions
+
+## Setup
+```
+# install the necessary libraries
+pip install openai
+pip install python-dotenv
+```
